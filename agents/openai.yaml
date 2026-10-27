@@ -1,0 +1,4 @@
+interface:
+  display_name: "温馨日常像素风"
+  short_description: "将文字或参考图转换为原创温馨生活像素图像与视频提示词"
+  default_prompt: "使用 $cozy-daily-pixel-style 将我的文字或参考图转换为原创温馨日常像素风。"
